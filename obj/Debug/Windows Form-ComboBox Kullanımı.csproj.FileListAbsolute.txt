@@ -1,0 +1,11 @@
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\bin\Debug\Windows Form-ComboBox Kullanımı.exe.config
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\bin\Debug\Windows Form-ComboBox Kullanımı.exe
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\bin\Debug\Windows Form-ComboBox Kullanımı.pdb
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows_Form_ComboBox_Kullanımı.Form1.resources
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows_Form_ComboBox_Kullanımı.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.exe
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-ComboBox Kullanımı\obj\Debug\Windows Form-ComboBox Kullanımı.pdb
